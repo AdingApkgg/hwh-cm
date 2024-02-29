@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "https://www.hwh-cm.love/*"
+  to = "https://hwh-cm.love/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://m.hwh-cm.love/*"
+  to = "https://hwh-cm.love/:splat"
+  status = 301
+  force = true
