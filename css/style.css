@@ -602,7 +602,7 @@ a:active {
 }
 
 section#viewTop {
-    background: rgba(51, 51, 51, 0.7);
+    background: rgba(51, 51, 51, 0.6);
     color: #FF6699;
     height: 100vh;
     display: flex;
@@ -677,7 +677,6 @@ section#viewTop ul li a {
 #viewImgList ul {
     width: 94%;
     margin: 0 auto;
-    margin-bottom: 16vh;
     padding: 5px;
     list-style: none;
 }
