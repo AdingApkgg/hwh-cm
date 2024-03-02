@@ -640,6 +640,17 @@ section#viewTop ul li a {
     text-shadow: rgba(51, 51, 51, 0.3) 0 2px 3px;
 }
 
+#viewTopVideo {
+    margin: 20px 0;
+    border: rgba(238, 56, 198, 0.9) 6px solid;
+    border-radius: 8px;
+    box-shadow: rgba(228, 47, 152, 0.7) 0 5px 10px;
+}
+
+#viewTopVideo video {
+    width: 100%;
+}
+
 #scroll-down {
     width: 160px;
     height: 50px;
