@@ -641,7 +641,6 @@ section#viewTop ul li a {
 }
 
 #viewTopVideo {
-    margin: 20px 0;
     border: rgba(238, 56, 198, 0.9) 6px solid;
     border-radius: 8px;
     box-shadow: rgba(228, 47, 152, 0.7) 0 5px 10px;
