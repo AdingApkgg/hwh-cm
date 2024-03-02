@@ -645,6 +645,9 @@ section#viewTop ul li a {
     border-radius: 8px;
     box-shadow: rgba(228, 47, 152, 0.7) 0 5px 10px;
     background: rgba(0, 0, 0, .7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #viewTopVideo video {
